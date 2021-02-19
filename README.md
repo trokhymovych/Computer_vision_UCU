@@ -9,3 +9,7 @@ What was done during the course:
 - [HW3](https://colab.research.google.com/drive/1KRpcedMyIsV3ODV_WBYDiuJ2fSRQ8Vg4?usp=sharing): Automatically separate objects from background and count of objects on the picture
 - [HW4](https://colab.research.google.com/drive/1l-Fo8uc5ufcdqlwuRd88z0qToe8rWr20?usp=sharing): Stereo matching
 - [HW5](https://github.com/trokhymovych/CV_HW3): Implementing Kalman Filter,  Lucas-Kanade-Tracking and MeanShift.
+
+![Alt Text](https://media.giphy.com/media/UNS6vKZrWFuqY6LxNR/giphy.gif)
+![Alt Text](https://github.com/trokhymovych/Computer_vision_UCU/blob/master/imgs/Screenshot%202021-02-19%20at%2009.35.09.png)
+![Alt Text](https://github.com/trokhymovych/Computer_vision_UCU/blob/master/imgs/Screenshot%202021-02-19%20at%2009.36.03.png)
